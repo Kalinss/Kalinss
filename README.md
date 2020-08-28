@@ -12,8 +12,6 @@
 - 💬 Ask me about anything related to JS/HTML/CSS
 - ⚡ Fun fact: I love to sleep
 
-</br>
-
 ### Languages and Tools:
 <code><img  width="26px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript"></code>
 <code><img  width="26px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript"></code>
