@@ -2,8 +2,6 @@
 
 <a href='https://t.me/kalinss16'><img align='left' width="26px" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="telegram"></a>
 <a href='https://vk.com/hidashko'><img align='left' width="26px" src="https://cdn.worldvectorlogo.com/logos/vk-1.svg" alt="vkotakte"></a>
-<br/>
-<br/>
 
 ## I'm a frontend developer
 
@@ -12,7 +10,9 @@
 - 💬 Ask me about anything related to JS/HTML/CSS
 - ⚡ Fun fact: I love to sleep
 
-**Languages and Tools:**
+</br>
+
+### Languages and Tools:
 <code><img  width="26px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript"></code>
 <code><img  width="26px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript"></code>
 <code><img  width="26px" src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg" alt="webstorm"></code>
@@ -29,7 +29,5 @@
 <code><img  width="26px" src="https://cdn.worldvectorlogo.com/logos/gulp-1.svg" alt="gulp"></code>
 <code><img  width="26px" src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" alt="adobe photoshop"></code>
 <code><img width="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc.svg" alt="adobe illustrator"></code>
-
-</br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalinss&layout=compact)
