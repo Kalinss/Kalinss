@@ -3,6 +3,8 @@
 <a href='https://t.me/kalinss16'><img align='left' width="26px" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="telegram"></a>
 <a href='https://vk.com/hidashko'><img align='left' width="26px" src="https://cdn.worldvectorlogo.com/logos/vk-1.svg" alt="vkotakte"></a>
 
+</br>
+
 ## I'm a frontend developer
 
 - 🔭 I’m currently working on something interesting
