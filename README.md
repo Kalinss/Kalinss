@@ -3,14 +3,14 @@
 <a href='https://t.me/kalinss16'><img align='left' width="26px" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="telegram"></a>
 <a href='https://vk.com/hidashko'><img align='left' width="26px" src="https://cdn.worldvectorlogo.com/logos/vk-1.svg" alt="vkotakte"></a>
 
-##I'm a frontend developer
+## I'm a frontend developer
 
 - 🔭 I’m currently working on something interesting
 - 🌱 I’m currently learning functional programming & data structures
 - 💬 Ask me about anything related to JS/HTML/CSS
 - ⚡ Fun fact: I love to sleep
 
-#####Languages and Tools:
+##### Languages and Tools:
 <img align='left' width="26px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript">
 <img align='left' width="26px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript">
 <img align='left' width="26px" src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg" alt="webstorm">
