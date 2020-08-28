@@ -1,6 +1,7 @@
 ### Hi there, I'm <a href='https://kalinss.pw' alt='Kalinss homepage'>Sergey</a> <img width="26px" alt="Hi"  src="https://image.flaticon.com/icons/svg/501/501127.svg"/>
 
 <a href='https://t.me/kalinss16'><img align='left' width="26px" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="telegram"></a>
+<a href='mailto:kalinss16@gmail.com'><img align='left' width="26px" src="https://image.flaticon.com/icons/svg/732/732200.svg" alt="send me"></a>
 <a href='https://vk.com/hidashko'><img align='left' width="26px" src="https://cdn.worldvectorlogo.com/logos/vk-1.svg" alt="vkotakte"></a>
 
 </br>
