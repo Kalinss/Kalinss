@@ -1,4 +1,4 @@
-### Hi there, I'm <a href='https://kalinss.pw' alt='Kalinss homepage'>Sergey</a> <img width="26px" alt="Hi"  src="https://image.flaticon.com/icons/svg/501/501127.svg"/>
+### Hi there, I'm <a href='https://kalinss.pw' alt='Kalinss homepage'>Sergey</a> <img width="26px" alt="Hi"  src="https://cdn-icons.flaticon.com/png/512/5129/premium/5129597.png?token=exp=1635269784~hmac=615599f174b978e7aeea86887259ff4f"/>
 
 <a href='https://t.me/kalinss16'><img align='left' width="26px" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="telegram"></a>
 <a href='mailto:kalinss16@gmail.com'><img align='left' width="26px" src="https://image.flaticon.com/icons/svg/732/732200.svg" alt="send me"></a>
